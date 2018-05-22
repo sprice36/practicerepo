@@ -6,5 +6,3 @@ def theSmallestNumber():
             smallestNumber = numbersList[numbers]
     return smallestNumber
 
-
-print('I am sneakin in yo\' files')

@@ -5,3 +5,6 @@ def theSmallestNumber():
         if (smallestNumber > numbersList[numbers]):
             smallestNumber = numbersList[numbers]
     return smallestNumber
+
+
+print('I am sneakin in yo\' files')
